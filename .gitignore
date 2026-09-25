@@ -1,0 +1,8 @@
+# Visual Studio cache, user options, and local files
+.vs/
+*.suo
+*.user
+bin/
+obj/
+Debug/
+RunPassLogic/
