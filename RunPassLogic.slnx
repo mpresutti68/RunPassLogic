@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../TestRunPassLogic/TestRunPassLogic.vcxproj" Id="1167643f-5d22-448c-b7de-aaf09a96a70f" />
   <Project Path="RttID.vcxproj" Id="741f668b-4685-4cc2-aa7e-f56c4726c137" />
+  <Project Path="TestRunPassLogic.vcxproj" Id="1167643f-5d22-448c-b7de-aaf09a96a70f" />
 </Solution>
